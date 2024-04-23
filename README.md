@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RahulRaghvendraSuthar
 - 👀 I’m interested in Full-Stack Development.
-- 🌱 I’m currently learning Laravel and Flutter.
+- 🌱 I’m currently working on Laravel and Flutter.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
